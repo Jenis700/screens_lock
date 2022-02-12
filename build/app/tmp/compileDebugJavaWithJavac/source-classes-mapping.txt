@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+io/flutter/plugins/localauthexample/BuildConfig.java
+ io.flutter.plugins.localauthexample.BuildConfig

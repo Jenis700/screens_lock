@@ -1,0 +1,29 @@
+name: lock_app
+description: Demonstrates how to use the local_auth plugin.
+publish_to: none
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path: ^1.8.0
+  flutter_screen_lock: ^5.0.4
+  pattern_lock: ^2.0.0
+  passcode_screen: ^2.0.1
+  shared_preferences: ^2.0.12
+  fluttertoast: ^8.0.8
+  local_auth:
+
+
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  pedantic: ^1.10.0
+
+flutter:
+  uses-material-design: true
